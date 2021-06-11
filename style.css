@@ -77,10 +77,22 @@ margin-top: 79px;
     border: 1px solid var(--main-orange);
     margin-right: 20px;
 }
+.nav-btns .signin-btn:hover{
+    color: #ffffff;
+    background-color: var(--main-orange);
+    
+}
 .nav-btns .signup-btn{
     color:var(--light);
     background-color: var(--main-orange);
     box-shadow: -11.09px 18.13px 36.6483px rgba(242, 153, 74, 0.13);
+    border: 1px solid var(--main-orange);
+}
+
+.nav-btns .signup-btn:hover{
+    color:var(--main-orange);
+    background-color: transparent;
+    
 }
 
 /* hero section */
